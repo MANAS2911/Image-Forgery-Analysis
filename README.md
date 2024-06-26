@@ -9,3 +9,5 @@ that can automatically identify manipulated or forged images. Ensuring the authe
 credibility of digital content is crucial to combat the growing concern of fake images circulating
 online.
 
+Datasets link:
+https://www.kaggle.com/datasets/sophatvathana/casia-dataset
